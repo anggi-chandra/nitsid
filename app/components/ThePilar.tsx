@@ -17,7 +17,7 @@ const teamMembers = [
     {
         name: "Anggie Chandra Wiguna",
         role: "Co-Founder",
-        image: "/anggi.JPG",
+        image: "/anggi.jpg",
     },
 ];
 

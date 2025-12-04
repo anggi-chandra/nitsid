@@ -11,32 +11,32 @@ const projects = [
     {
         title: "GLORY OF SCHOOL",
         category: "DESEMBER 2024",
-        images: ["/GOS_1.jpg", "/GOS_2.jpg", "/GOS_3.jpg", "/GOS_4.jpg"],
+        images: ["/GOS_1.JPG", "/GOS_2.JPG", "/GOS_3.JPG", "/GOS_4.JPG"],
     },
     {
         title: "XD FIESTA MLBB 2024",
         category: "SEPTEMBER 2024",
-        images: ["/XD_1.jpg", "/XD_2.jpg", "/XD_3.jpg", "/XD_4.jpg"],
+        images: ["/XD_1.JPG", "/XD_2.JPG", "/XD_3.JPG", "/XD_4.JPG"],
     },
     {
         title: "MOBILE LEGENDS COMMUNITY HERO",
         category: "NOVEMBER 2024",
-        images: ["/MCH_1.jpg", "/MCH_2.jpg", "/MCH_3.jpg", "/MCH_4.jpg"],
+        images: ["/MCH_1.JPG", "/MCH_2.JPG", "/MCH_3.JPG", "/MCH_4.JPG"],
     },
     {
         title: "TOURNAMENT MOBILE LEGENDS",
         category: "JANUARI 2025",
-        images: ["/ML_1.jpg", "/ML_2.jpg", "/ML_3.jpg", "/ML_4.jpg"],
+        images: ["/ML_1.JPG", "/ML_2.JPG", "/ML_3.JPG", "/ML_4.JPG"],
     },
     {
         title: "SITEFEST 2025",
         category: "MEI 2025",
-        images: ["/SITEFEST_1.jpg", "/SITEFEST_2.jpg", "/SITEFEST_3.jpg", "/SITEFEST_4.jpg"],
+        images: ["/SITEFEST_1.JPG", "/SITEFEST_2.JPG", "/SITEFEST_3.JPG", "/SITEFEST_4.JPG"],
     },
     {
         title: "XD FIESTA MLBB X PUBG 2025",
         category: "SEPTEMBER 2025",
-        images: ["/XD2_1.JPG", "/XD2_2.JPG", "/XD2_3.JPG", "/XD2_4.JPG"],
+        images: ["/XD2_1.JPG", "/XD2_2.JPG", "/XD2_3.jpg", "/XD2_4.jpg"],
     },
 ];
 
