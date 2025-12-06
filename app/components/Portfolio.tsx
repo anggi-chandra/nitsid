@@ -1,6 +1,7 @@
 "use client";
 
 import { useGSAP } from "@gsap/react";
+import Image from "next/image";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { useRef } from "react";
@@ -93,10 +94,11 @@ export default function Portfolio() {
                                         className="relative border border-white/5 bg-neutral-800 flex items-center justify-center overflow-hidden"
                                     >
                                         {img ? (
-                                            <img
+                                            <Image
                                                 src={img}
                                                 alt={`${project.title} - ${imgIndex + 1}`}
-                                                className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
+                                                fill
+                                                className="object-cover transition-transform duration-500 group-hover:scale-110"
                                             />
                                         ) : (
                                             <span className="text-neutral-700 text-xs font-mono">

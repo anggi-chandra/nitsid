@@ -1,5 +1,7 @@
 "use client";
 
+import Image from "next/image";
+
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 import { useRef } from "react";
@@ -50,10 +52,11 @@ export default function Partnership() {
                                 >
                                     {partner.logo && (
                                         <div className="relative w-8 h-8 rounded-full overflow-hidden bg-white/10">
-                                            <img
+                                            <Image
                                                 src={partner.logo}
                                                 alt={partner.name}
-                                                className="w-full h-full object-cover"
+                                                fill
+                                                className="object-cover"
                                             />
                                         </div>
                                     )}

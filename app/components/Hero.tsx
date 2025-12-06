@@ -71,7 +71,7 @@ export default function Hero() {
                         className="text-lg md:text-xl text-white/60 mb-12 leading-relaxed"
                     >
                         Welcome to NITS. We are a collective of dreamers and doers,
-                        transforming ideas into digital reality. Let's embark on a journey
+                        transforming ideas into digital reality. Let&apos;s embark on a journey
                         where innovation meets elegance.
                     </p>
 
