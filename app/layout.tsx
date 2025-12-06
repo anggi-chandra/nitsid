@@ -27,6 +27,7 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={`${inter.variable} ${syne.variable} antialiased`}
+        suppressHydrationWarning={true}
       >
         <Header />
         {children}
