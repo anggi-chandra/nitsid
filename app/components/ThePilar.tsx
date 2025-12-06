@@ -12,7 +12,7 @@ const teamMembers = [
     {
         name: "I Made Dwi Arya Wiguna",
         role: "Founder",
-        image: "/kakarya.JPG",
+        image: "/arya.JPG",
     },
     {
         name: "Anggie Chandra Wiguna",
